@@ -14,9 +14,16 @@ An example is shown below, where the content image is of a cat, and the style im
 
 ## Results
 ### Style Image:
-![](images/delaunay.jpg)
+<p align="center">
+  <img width="500" src="images/delaunay.jpg">
+</p>
 ### Feature Image:
-![](images/janelle.jpg)
+<p align="center">
+  <img width="500" src="images/janelle.jpg">
+</p>
 ### Results:
-![](images/result.jpg)
+<p align="center">
+  <img width="500" src="images/result.jpg">
+</p>
+
 
